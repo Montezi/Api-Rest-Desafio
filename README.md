@@ -49,7 +49,7 @@ Listar (incluir ordenação e filtro de busca))
 }  
     
 ```
-  Para acessar os demais endpoints será necessário preencher o Header com as seguintes informções:
+  Para acessar os demais endpoints será necessário preencher o Header com as seguintes informações:
   Content-Type = application/json
   x-api-key = token
   User-ID = id
