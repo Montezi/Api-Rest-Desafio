@@ -3,7 +3,7 @@
    Este Desafio consistia em construir uma API REST utilizando: 
    * Framework Codeigniter 3 (PHP) e Banco de dados MySQL.
    * Entrada e saída de dados em json
-   A API deveria expor endpoints para CRUD de cidade e estado e realizar as operações mínimas (Inserir,Alterar,Excluir,
+   * A API deveria expor endpoints para CRUD de cidade e estado e realizar as operações mínimas (Inserir,Alterar,Excluir,
 Listar (incluir ordenação e filtro de busca))   
 
 ### Pré requisitos
